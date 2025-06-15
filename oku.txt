@@ -1,1 +1,5 @@
-Bu Python kodu, bir savaş simülasyonudur. Radar sınıfı rastgele düşman (uçak, tank, asker) tespiti yapar. Eğer düşman bulunursa, önceden tanımlanmış bir uçak hedefe yönlendirilir ve Sorti sınıfı ile saldırı (atış) gerçekleştirilir. Atış rastgele başarı veya başarısızlıkla sonuçlanır (%50 ihtimal). Uçak düşerse kaybedilmiş, hedef imha edilirse kazanılmış sayılmalı ancak kodda bu sayaçlar henüz güncellenmiyor. Amaç, 5 başarı veya 5 kayıpta simülasyonu sonlandırmaktır. Kodda uçak filosu da tanımlıdır ve hedef koordinatlara göre saldırılar düzenlenir.
+Bu Python kodu, öğrenci sınıf ve ders yönetimini basit şekilde simüle eder.
+Kısaca sınıfların işlevleri
+ogrenci sınıfı: Her öğrencinin id, isim ve soyad bilgilerini tutar.
+sınıf sınıfı: Öğrenci ekleyip çıkarma ve sınıf listesini yazdırma işlemlerini yapar.
+ders sınıfı: Bir dersin adı ve ID'sini tutar, geçen ve kalan öğrenci sayılarını sayar ve gösterir.
