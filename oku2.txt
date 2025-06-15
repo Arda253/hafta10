@@ -1,0 +1,5 @@
+Bu Python kodu, öğrenci sınıf ve ders yönetimini basit şekilde simüle eder.
+Kısaca sınıfların işlevleri:
+ogrenci sınıfı: Her öğrencinin id, isim ve soyad bilgilerini tutar.
+sınıf sınıfı: Öğrenci ekleyip çıkarma ve sınıf listesini yazdırma işlemlerini yapar.
+ders sınıfı: Bir dersin adı ve ID'sini tutar, geçen ve kalan öğrenci sayılarını sayar ve gösterir.
